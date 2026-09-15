@@ -1,6 +1,6 @@
 # PACS Lab theme
-# Light palette matches the NVIDIA AMRI site exactly (white + #dcdcdc sections).
-# Links use York University red (#E31837) for brand harmony.
+# Dark palette with a #1c1d24 background (requested).
+# Links use York University red for brand harmony.
 # The day/night toggle switches between the [light] and [dark] palettes.
 name = "PACS"
 
@@ -10,13 +10,13 @@ name = "PACS"
   link = "#E31837"
   link_hover = "#b3122c"
 
-  # Menu (white navbar like NVIDIA)
+  # Menu (white navbar)
   menu_primary = "#ffffff"
   menu_text = "#333333"
   menu_text_active = "#E31837"
   menu_title = "#1a1a1a"
 
-  # Home sections — exact NVIDIA AMRI backgrounds
+  # Home sections
   home_section_odd = "rgb(255, 255, 255)"
   home_section_even = "rgb(220, 220, 220)"
 
@@ -26,12 +26,12 @@ name = "PACS"
   link = "#ff4d63"
   link_hover = "#ff7385"
 
-  # Menu
-  menu_primary = "rgb(13, 15, 20)"
-  menu_text = "rgba(255,255,255,0.7)"
+  # Menu — matches the #1c1d24 background
+  menu_primary = "#1c1d24"
+  menu_text = "rgba(255,255,255,0.75)"
   menu_text_active = "#ff4d63"
   menu_title = "#ffffff"
 
-  # Home sections
-  home_section_odd = "rgb(17, 19, 26)"
-  home_section_even = "rgb(11, 12, 17)"
+  # Home sections — requested #1c1d24 background
+  home_section_odd = "#1c1d24"
+  home_section_even = "#1c1d24"

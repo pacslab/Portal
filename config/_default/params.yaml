@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  mode: light
+  mode: dark
   theme_day: pacs
   theme_night: pacs
   font: native

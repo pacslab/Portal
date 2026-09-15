@@ -22,21 +22,15 @@ sections:
       address:
         street: Room 2017, Lassonde Building, Keele Campus, York University
         city: Toronto
-        region: ON
+        region: 'ON'
         postcode: 'M3J 1P3'
         country: Canada
         country_code: CA
       coordinates:
-        latitude: '43.7735'
-        longitude: '-79.5019'
+        latitude: '43.7738950'
+        longitude: '-79.5052392'
       directions: PACS Lab — Room 2017, Lassonde Building, Keele Campus
       autolink: true
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          captcha: false
     design:
       columns: '1'
 ---

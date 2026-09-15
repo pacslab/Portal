@@ -76,3 +76,24 @@
   width: 150px;
   height: 150px;
 }
+
+/* Gallery: clickable thumbnails that zoom to full size in a framed lightbox */
+.article-style img[data-zoomable],
+.markdown img[data-zoomable] {
+  cursor: zoom-in;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+.article-style img[data-zoomable]:hover,
+.markdown img[data-zoomable]:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.45);
+}
+
+/* The zoomed image gets a clean white frame + rounded corners */
+.medium-zoom-image--opened {
+  border-radius: 10px;
+  border: 6px solid #ffffff;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.6);
+  background: #ffffff;
+}

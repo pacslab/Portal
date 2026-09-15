@@ -12,7 +12,7 @@ sections:
       text: |
         <div class="pacs-hero">
           <div class="pacs-hero-logo">
-            <img src="/media/pacs-logo.svg" alt="PACS Lab logo" loading="eager" />
+            <img src="/media/pacs-logo.png" alt="PACS Lab logo" loading="eager" />
           </div>
           <div class="pacs-hero-text">
             <h1>Performant and Available Computing Systems Lab</h1>
