@@ -5,50 +5,29 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Performant and Available
-        Computing Systems Lab
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-
-        We analyze, model, design, and build **large-scale computing systems**
-        focused on **performance** and **availability** at York University's
-        Lassonde School of Engineering.
-      cta:
-        label: Meet the Team
-        url: ./people/
-        icon_pack: fas
-        icon: users
-      cta_alt:
-        label: Join the Lab
-        url: ./prospective/
-    design:
-      background:
-        gradient_start: '#0b0c11'
-        gradient_end: '#11131a'
-        text_color_light: true
-
   - block: markdown
+    id: hero
     content:
-      title: About the Lab
-      subtitle: ''
+      title: ''
       text: |
-        Welcome to the **Performant and Available Computing Systems (PACS) Lab**
-        at York University. In the PACS lab, we analyze, model, design, and build
-        large-scale computing systems focused on performance and availability.
-        The PACS lab is part of the Electrical Engineering and Computer Science
-        Department within the Lassonde School of Engineering at York University,
-        located in the vibrant, multicultural city of Toronto.
-
-        We are excited to welcome new members to the PACS lab. To join, please
-        visit our [Prospective Page](./prospective/), which contains all the
-        details you need to get started on this rewarding research journey.
+        <div class="pacs-hero">
+          <div class="pacs-hero-logo">
+            <img src="/media/pacs-logo.svg" alt="PACS Lab logo" loading="eager" />
+          </div>
+          <div class="pacs-hero-text">
+            <h1>Performant and Available Computing Systems Lab</h1>
+            <p>Welcome to the homepage of the <strong>Performant and Available Computing Systems (PACS) Lab</strong> at York University, led by <a href="./authors/khazaei/">Dr. Hamzeh Khazaei</a>. We analyze, model, design, and build <strong>large-scale computing systems</strong> focused on <strong>performance</strong> and <strong>availability</strong>. The PACS Lab is part of the Electrical Engineering and Computer Science Department within the Lassonde School of Engineering, located in the vibrant, multicultural city of Toronto.</p>
+            <p>We are excited to welcome new members at all academic stages. To join, please visit our <a href="./prospective/">Join Us!</a> page for all the details you need to get started.</p>
+            <p class="pacs-hero-cta">
+              <a class="btn btn-primary" href="./people/">Meet the Team</a>
+              <a class="btn btn-outline-primary" href="./prospective/">Join Us!</a>
+            </p>
+          </div>
+        </div>
     design:
       columns: '1'
+      spacing:
+        padding: ['3rem', '0', '3rem', '0']
 
   - block: collection
     content:

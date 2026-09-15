@@ -23,7 +23,7 @@ main:
   - name: Resources
     url: resources/
     weight: 70
-  - name: Prospective
+  - name: Join Us!
     url: prospective/
     weight: 80
   - name: Contact

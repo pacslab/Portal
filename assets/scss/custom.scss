@@ -1,0 +1,78 @@
+/* ===== PACS Lab custom styles ===== */
+
+/* Homepage hero: logo on the left, lab description on the right (NVIDIA AMRI style) */
+.pacs-hero {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.pacs-hero-logo {
+  flex: 0 0 300px;
+  max-width: 300px;
+  text-align: center;
+}
+
+.pacs-hero-logo img {
+  width: 100%;
+  height: auto;
+}
+
+.pacs-hero-text {
+  flex: 1 1 380px;
+  min-width: 300px;
+}
+
+.pacs-hero-text h1 {
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  font-weight: 800;
+  line-height: 1.15;
+}
+
+.pacs-hero-text p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.pacs-hero-cta {
+  margin-top: 1.5rem;
+}
+
+.pacs-hero-cta .btn {
+  margin-right: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Stack the hero on small screens */
+@media (max-width: 767.98px) {
+  .pacs-hero {
+    gap: 1.5rem;
+    text-align: center;
+  }
+  .pacs-hero-logo {
+    flex-basis: 220px;
+    max-width: 220px;
+    margin: 0 auto;
+  }
+  .pacs-hero-text h1 {
+    text-align: center;
+  }
+}
+
+/* People page: circular member portraits (NVIDIA AMRI style) */
+.people-widget .portrait,
+#people .portrait,
+.person-portrait {
+  border-radius: 50% !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  width: 150px;
+  height: 150px;
+}

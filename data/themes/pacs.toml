@@ -1,26 +1,37 @@
-# PACS Lab — modern dark theme (NVIDIA AMRI inspired)
-# The day/night toggle is disabled, so the "day" (light) palette is used by
-# default. We set the same dark palette in both blocks to force a dark look.
-name = "PACS Dark"
+# PACS Lab theme
+# Light palette matches the NVIDIA AMRI site exactly (white + #dcdcdc sections).
+# Links use York University red (#E31837) for brand harmony.
+# The day/night toggle switches between the [light] and [dark] palettes.
+name = "PACS"
 
 [light]
-  primary = "hsl(82, 100%, 45%)"
-  link = "hsl(82, 100%, 55%)"
-  link_hover = "hsl(82, 100%, 65%)"
-  menu_primary = "rgb(13, 15, 20)"
-  menu_text = "rgba(255,255,255,0.7)"
-  menu_text_active = "rgba(255,255,255,1)"
-  menu_title = "#ffffff"
-  home_section_odd = "rgb(17, 19, 26)"
-  home_section_even = "rgb(11, 12, 17)"
+  # Primary / links — York University red
+  primary = "#E31837"
+  link = "#E31837"
+  link_hover = "#b3122c"
+
+  # Menu (white navbar like NVIDIA)
+  menu_primary = "#ffffff"
+  menu_text = "#333333"
+  menu_text_active = "#E31837"
+  menu_title = "#1a1a1a"
+
+  # Home sections — exact NVIDIA AMRI backgrounds
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(220, 220, 220)"
 
 [dark]
-  primary = "hsl(82, 100%, 45%)"
-  link = "hsl(82, 100%, 55%)"
-  link_hover = "hsl(82, 100%, 65%)"
+  # Primary / links — brightened York red for legibility on dark
+  primary = "#ff4d63"
+  link = "#ff4d63"
+  link_hover = "#ff7385"
+
+  # Menu
   menu_primary = "rgb(13, 15, 20)"
   menu_text = "rgba(255,255,255,0.7)"
-  menu_text_active = "rgba(255,255,255,1)"
+  menu_text_active = "#ff4d63"
   menu_title = "#ffffff"
+
+  # Home sections
   home_section_odd = "rgb(17, 19, 26)"
   home_section_even = "rgb(11, 12, 17)"
