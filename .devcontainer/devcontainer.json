@@ -1,0 +1,21 @@
+{
+  "name": "PACS Lab Portal",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/go:1": {
+      "version": "1.23"
+    },
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "version": "0.140.2",
+      "extended": true
+    }
+  },
+  "postCreateCommand": "hugo mod get && hugo mod tidy",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "budparr.language-hugo-vscode"
+      ]
+    }
+  }
+}
