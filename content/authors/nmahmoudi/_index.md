@@ -10,6 +10,7 @@ organizations:
 bio: MSc student at the PACS Lab.
 interests:
   - Computing Systems
+  - Federated Learning
 social:
   - icon: linkedin
     icon_pack: fab
