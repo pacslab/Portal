@@ -11,8 +11,8 @@ bio: Director of the PACS Lab. Research interests include performance and availa
 interests:
   - Serverless Computing
   - Machine Learning Systems
-  - Microservice Platforms
-  - Cloud & Distributed Systems
+  - Performance Modelling 
+iii Cloud & Distributed Systems
 social:
   - icon: envelope
     icon_pack: fas
