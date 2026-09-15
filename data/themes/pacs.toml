@@ -1,0 +1,26 @@
+# PACS Lab — modern dark theme (NVIDIA AMRI inspired)
+# The day/night toggle is disabled, so the "day" (light) palette is used by
+# default. We set the same dark palette in both blocks to force a dark look.
+name = "PACS Dark"
+
+[light]
+  primary = "hsl(82, 100%, 45%)"
+  link = "hsl(82, 100%, 55%)"
+  link_hover = "hsl(82, 100%, 65%)"
+  menu_primary = "rgb(13, 15, 20)"
+  menu_text = "rgba(255,255,255,0.7)"
+  menu_text_active = "rgba(255,255,255,1)"
+  menu_title = "#ffffff"
+  home_section_odd = "rgb(17, 19, 26)"
+  home_section_even = "rgb(11, 12, 17)"
+
+[dark]
+  primary = "hsl(82, 100%, 45%)"
+  link = "hsl(82, 100%, 55%)"
+  link_hover = "hsl(82, 100%, 65%)"
+  menu_primary = "rgb(13, 15, 20)"
+  menu_text = "rgba(255,255,255,0.7)"
+  menu_text_active = "rgba(255,255,255,1)"
+  menu_title = "#ffffff"
+  home_section_odd = "rgb(17, 19, 26)"
+  home_section_even = "rgb(11, 12, 17)"
