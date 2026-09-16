@@ -25,7 +25,7 @@ sections:
         You may initiate the process by sending an email with the following specs:
 
         - **To:** pacs@yorku.ca
-        - **Subject format:** `prospective-[BSc|MSc|PhD|Postdoc]-[Fall|Winter|Summer]-[Year]` (e.g., `prospective-PhD-Fall-2025`)
+        - **Subject format:** `prospective-[BSc|MSc|PhD|Postdoc]-[Fall|Winter|Summer]-[Year]` (e.g., `prospective-PhD-Fall-2027`)
         - **Attachments:** CV and Transcripts
 
         Your CV may include the following:
