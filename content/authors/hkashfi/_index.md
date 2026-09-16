@@ -20,4 +20,4 @@ user_groups:
   - Researchers
 ---
 
-Hanieh Kashfi is a Research Associate at the PACS Lab, joining in June 2025.
+Hanieh Kashfi is a Research Associate at the PACS Lab, joined in June 2025.
