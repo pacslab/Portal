@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        **Prospective applicants** should first read the [Prospective Page](../prospective/)
+        **Prospective applicants** should first read the [Join Us!](../prospective/)
         for application instructions.
 
         **Director's office:**  
