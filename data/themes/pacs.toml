@@ -37,5 +37,5 @@ name = "PACS"
   menu_title = "#ffffff"
 
   # Home sections — requested #1c1d24 background
-  home_section_odd = "#1c1d24"
-  home_section_even = "#1c1d24"
+  home_section_odd = "#1a1d24"
+  home_section_even = "#1a1d24"
