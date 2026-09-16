@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "strictness": "strict",
+    "allow": [
+      "Bash(head *)",
+      "Bash(cd \"/Users/hamzeh/Library/CloudStorage/GoogleDrive-hkh@yorku.ca/My)",
+      "Bash(which *)",
+      "Bash(hugo *)",
+      "Bash(cd \"/Users/hamzeh/Library/CloudStorage/GoogleDrive-hkh@yorku.ca/My)",
+      "Bash(grep *)",
+      "Bash(find /tmp/pacs_build_test -name \"*.css\")",
+      "Bash(xargs grep -l \"pacs-hero\" 2>/dev/null)",
+      "Bash(rm *)"
+    ]
+  }
+}

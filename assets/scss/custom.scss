@@ -1,19 +1,26 @@
 /* ===== PACS Lab custom styles ===== */
 
+/* Widen the overall content container (NVIDIA AMRI style) */
+@media only screen and (min-width: 1001px) {
+  .universal-wrapper {
+    width: 1200px;
+  }
+}
+
 /* Homepage hero: logo on the left, lab description on the right (NVIDIA AMRI style) */
 .pacs-hero {
   display: flex;
   align-items: center;
   gap: 3rem;
   flex-wrap: wrap;
-  max-width: 1100px;
+  max-width: 1200px;
   margin: 0 auto;
   text-align: left;
 }
 
 .pacs-hero-logo {
-  flex: 0 0 300px;
-  max-width: 300px;
+  flex: 0 0 220px;
+  max-width: 220px;
   text-align: center;
 }
 
@@ -33,6 +40,7 @@
   margin-bottom: 1.25rem;
   font-weight: 800;
   line-height: 1.15;
+  font-size: 1.75rem;
 }
 
 .pacs-hero-text p {
