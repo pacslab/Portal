@@ -10,6 +10,7 @@ organizations:
 bio: Research Associate at the PACS Lab.
 interests:
   - Computing Systems
+  - Serverless Inference
 social:
   - icon: globe
     icon_pack: fas
