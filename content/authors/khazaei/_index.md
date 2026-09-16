@@ -22,7 +22,7 @@ social:
     link: https://hamzehkhazaei.github.io/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.ca/citations?user=Q8pdrjEAAAAJ
+    link: https://scholar.google.com/citations?user=shffeJ8AAAAJ&hl=en
 email: ''
 highlight_name: true
 user_groups:
