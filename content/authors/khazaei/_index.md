@@ -9,10 +9,10 @@ organizations:
     url: 'https://lassonde.yorku.ca/'
 bio: Director of the PACS Lab. Research interests include performance and availability modelling of large-scale computing systems.
 interests:
-  - Serverless Computing
+  - Cloud Computing
   - Machine Learning Systems
   - Performance Modelling
-  - Cloud & Distributed Systems
+  - Distributed Systems
 social:
   - icon: envelope
     icon_pack: fas
