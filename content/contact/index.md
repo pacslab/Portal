@@ -9,8 +9,6 @@ sections:
     content:
       title: Contact
       text: |-
-        For general enquiries, reach the PACS Lab by email. 
-        
         **Prospective applicants** should first read the [Prospective Page](../prospective/)
         for application instructions.
 
