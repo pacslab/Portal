@@ -14,9 +14,9 @@ interests:
   - Performance Modelling
   - Distributed Systems
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:hkh@yorku.ca
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: mailto:hkh@yorku.ca
   - icon: globe
     icon_pack: fas
     link: https://hamzehkhazaei.github.io/
