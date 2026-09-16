@@ -29,4 +29,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Dr. Hamzeh Khazaei is an Associate Professor in the Department of Electrical Engineering and Computer Science at the Lassonde School of Engineering, York University, and the director of the PACS Lab. His research focuses on analyzing, modelling, designing, and building large-scale computing systems with an emphasis on performance, usability and availability.
+Dr. Hamzeh Khazaei is an Associate Professor in the Department of Electrical Engineering and Computer Science at the Lassonde School of Engineering, York University, and the director of the PACS Lab. His research focuses on analyzing, modelling, designing, and building large-scale computing systems with an emphasis on the performance, usability and availability.
