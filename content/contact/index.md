@@ -15,14 +15,14 @@ sections:
         for application instructions.
 
         **Director's office:**  
-        Room 2002, Lassonde Building, Keele Campus, York University
+          Room 2002, Lassonde Building, Keele Campus, York University
         
         **Phone:**   
-        (416) 736-2100 ext. 44233  
-        **Department Fax:** (416) 736-5872
+          **Office:** (416) 736-2100 ext. 44233  
+          **Department Fax:** (416) 736-5872
 
         **Mailing address:**  
-        Dr. Hamzeh Khazaei, Department of Electrical Engineering and Computer Science, York University, 4700 Keele Street, Toronto, M3J 1P3, ON, Canada.
+          Dr. Hamzeh Khazaei, Department of Electrical Engineering and Computer Science, York University, 4700 Keele Street, Toronto, M3J 1P3, ON, Canada.
       
       email: pacs@yorku.ca
       phone: (416) 736-2100 ext. 44233
