@@ -10,7 +10,18 @@
       "Bash(grep *)",
       "Bash(find /tmp/pacs_build_test -name \"*.css\")",
       "Bash(xargs grep -l \"pacs-hero\" 2>/dev/null)",
-      "Bash(rm *)"
+      "Bash(rm *)",
+      "Bash(echo *)",
+      "Bash(ls *)",
+      "Bash(file *)",
+      "Bash(sed -n '1,60p')",
+      "Bash(echo *)",
+      "Bash(sed -n '10,20p')",
+      "Bash(sed *)",
+      "Bash(read *)",
+      "Bash([ *)",
+      "Bash(echo *)",
+      "Bash(echo *)"
     ]
   }
 }
