@@ -12,7 +12,7 @@ sections:
         ### ICPE25 — May 2025, York University
 
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px;">
-        <img src="../../static/media/gallery/icpe25/0.png" style="width:100%;border-radius:8px;" loading="lazy" alt="ICPE25" data-zoomable data-zoom-src="../../static/media/gallery/icpe25/0.png">
+        <img src="/media/gallery/icpe25/0.png" style="width:100%;border-radius:8px;" loading="lazy" alt="ICPE25" data-zoomable data-zoom-src="/media/gallery/icpe25/0.png">
        
         </div>
 
