@@ -44,7 +44,6 @@ sections:
         <img src="/media/gallery/acsos23/1.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="ACSOS23" data-zoomable data-zoom-src="/media/gallery/acsos23/1.jpg">
         <img src="/media/gallery/acsos23/2.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="ACSOS23" data-zoomable data-zoom-src="/media/gallery/acsos23/2.jpg">
         <img src="/media/gallery/acsos23/3.png" style="width:100%;border-radius:8px;" loading="lazy" alt="ACSOS23" data-zoomable data-zoom-src="/media/gallery/acsos23/3.png">
-        <img src="/media/gallery/acsos23/4.png" style="width:100%;border-radius:8px;" loading="lazy" alt="ACSOS23" data-zoomable data-zoom-src="/media/gallery/acsos23/4.png">
         </div>
 
         ### COVID-Era Milestones
@@ -57,8 +56,8 @@ sections:
 
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px;">
         <img src="/media/gallery/alberta/1.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="Early PACS Days" data-zoomable data-zoom-src="/media/gallery/alberta/1.jpg">
-        <img src="/media/gallery/alberta/Screenshot%202026-09-16%20at%204.02.59%20PM.png" style="width:100%;border-radius:8px;" loading="lazy" alt="Early PACS Days" data-zoomable data-zoom-src="/media/gallery/alberta/Screenshot%202026-09-16%20at%204.02.59%20PM.png">
-        <img src="/media/gallery/alberta/Screenshot%202026-09-16%20at%204.03.09%20PM.png" style="width:100%;border-radius:8px;" loading="lazy" alt="Early PACS Days" data-zoomable data-zoom-src="/media/gallery/alberta/Screenshot%202026-09-16%20at%204.03.09%20PM.png">
+        <img src="/media/gallery/alberta/2.png" style="width:100%;border-radius:8px;" loading="lazy" alt="Early PACS Days" data-zoomable data-zoom-src="/media/gallery/alberta/2.png">
+        <img src="/media/gallery/alberta/3.png" style="width:100%;border-radius:8px;" loading="lazy" alt="Early PACS Days" data-zoomable data-zoom-src="/media/gallery/alberta/3.png">
         </div>
     design:
       columns: '1'
