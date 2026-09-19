@@ -12,18 +12,8 @@ sections:
         ### ICPE25 — May 2025, York University
 
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px;">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-1024x768-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="ICPE25" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-1024x768.jpg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-pacs-1024x771-640x480.jpeg" style="width:100%;border-radius:8px;" loading="lazy" alt="ICPE25 PACS" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-pacs-1024x771.jpeg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-reg-1024x576-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="ICPE25 registration" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-reg-1024x576.jpg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-AlirezaP-2-1024x703-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="Alireza P" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-AlirezaP-2-1024x703.jpg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-AlirezaP-1024x879-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="Alireza P" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-AlirezaP-1024x879.jpg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-funders-768x1024-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="Funders" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-funders-768x1024.jpg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-poster-1024x577-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="Poster" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-poster-1024x577.jpg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-toronto-1024x768-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="Toronto" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-toronto-1024x768.jpg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-1-1024x768-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="ICPE25" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-1-1024x768.jpg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-toronto-2-1024x768-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="Toronto" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-toronto-2-1024x768.jpg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-0-768x1024-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="ICPE25" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-0-768x1024.jpg">
-        <img src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-team-1024x768-640x480.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="ICPE25 team" data-zoomable data-zoom-src="https://pacs.eecs.yorku.ca/wp-content/uploads/2025/05/icpe25-team-1024x768.jpg">
+        <img src="../../static/media/gallery/icpe25/0.png" style="width:100%;border-radius:8px;" loading="lazy" alt="ICPE25" data-zoomable data-zoom-src="../../static/media/gallery/icpe25/0.png">
+       
         </div>
 
         ### PACS Lab Gathering — Dec 2024, Chef Reza Restaurant
