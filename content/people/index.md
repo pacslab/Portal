@@ -32,6 +32,7 @@ sections:
 
         ### MSc Students
 
+        - **Niki Mahmoudi** (Sep 2024 — Aug 2026), now a Software Engineer at General Motors. [[Profile]](https://ca.linkedin.com/in/niki-mahmoudi-b22594243)
         - **Arian Boukani** (Sep 2023 — Jan 2026), nominated for Best Thesis Award. [[Profile]](https://2arian3.github.io/) · [[Thesis]](https://raw.githubusercontent.com/pacslab/publications/master/pdf/ArianBoukani_MSc_Proposal_Thesis.pdf)
         - **Alireza Abedini** (Sep 2023 — Feb 2026). [[Profile]](https://www.linkedin.com/in/alirezaabedinii) · [[Thesis]](https://raw.githubusercontent.com/pacslab/publications/master/pdf/AlirezaAbedini_MSc_Proposal_Thesis.pdf)
         - **Mohammadhossein Naderi** (Jan 2023 — Aug 2025). [[Profile]](https://www.linkedin.com/in/mh--naderi/) · [[Thesis]](https://raw.githubusercontent.com/pacslab/publications/master/pdf/MohammadhNaderi_MSc_Proposal_Thesis.pdf)
