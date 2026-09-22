@@ -20,6 +20,13 @@
   }
 }
 
+/* Navbar logo: circular */
+.navbar-brand img {
+  border-radius: 50%;
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
+}
+
 /* Homepage hero: logo on the left, lab description on the right (NVIDIA AMRI style) */
 .pacs-hero {
   display: flex;
@@ -56,15 +63,24 @@
   width: 2.5rem;
   height: 2.5rem;
   border-radius: 50%;
-  background: rgba(127, 127, 127, 0.12);
-  color: inherit;
+  background: rgba(227, 24, 55, 0.1);
+  color: #E31837;
   font-size: 1.1rem;
   transition: background 0.2s ease, transform 0.2s ease;
 }
 
 .pacs-hero-social a:hover {
-  background: rgba(127, 127, 127, 0.25);
+  background: rgba(227, 24, 55, 0.2);
   transform: translateY(-2px);
+}
+
+.dark .pacs-hero-social a {
+  background: rgba(255, 77, 99, 0.12);
+  color: #ff4d63;
+}
+
+.dark .pacs-hero-social a:hover {
+  background: rgba(255, 77, 99, 0.22);
 }
 
 .pacs-hero-text {
