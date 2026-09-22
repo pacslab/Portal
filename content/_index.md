@@ -13,6 +13,11 @@ sections:
         <div class="pacs-hero">
           <div class="pacs-hero-logo">
             <img src="/media/pacs-logo.png" alt="PACS Lab logo" loading="eager" />
+            <div class="pacs-hero-social">
+              <a href="https://github.com/pacslab" target="_blank" rel="noopener" aria-label="PACS Lab on GitHub"><i class="fab fa-github"></i></a>
+              <a href="https://x.com/pacslab" target="_blank" rel="noopener" aria-label="PACS Lab on X"><i class="fab fa-x-twitter"></i></a>
+              <a href="mailto:pacs@yorku.ca" aria-label="Email PACS Lab"><i class="fas fa-envelope"></i></a>
+            </div>
           </div>
           <div class="pacs-hero-text">
             <h1>Performant and Available Computing Systems Lab</h1>
