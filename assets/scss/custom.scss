@@ -1,9 +1,22 @@
 /* ===== PACS Lab custom styles ===== */
 
-/* Widen the overall content container (NVIDIA AMRI style) */
+/* Content container: proportional to the viewport with a max cap,
+   guaranteeing meaningful side margins on any screen size. */
 @media only screen and (min-width: 1001px) {
   .universal-wrapper {
-    width: 1200px;
+    width: calc(100% - 8rem);
+    max-width: 1200px;
+  }
+}
+
+/* Bootstrap containers (homepage widgets, navbar, footer): the theme caps
+   these at 1290px, which fills a ~1280px laptop screen. Cap them
+   proportionally so side margins always exist. */
+@media only screen and (min-width: 1200px) {
+  .container,
+  .container-xl {
+    width: calc(100% - 8rem);
+    max-width: 1290px;
   }
 }
 
