@@ -20,6 +20,11 @@
   }
 }
 
+/* Navbar logo (PACS wordmark): white in dark mode for contrast */
+.dark .navbar-brand img {
+  filter: brightness(0) invert(1);
+}
+
 /* Homepage hero: logo on the left, lab description on the right (NVIDIA AMRI style) */
 .pacs-hero {
   display: flex;
