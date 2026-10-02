@@ -3,11 +3,11 @@ title: Alireza Abedini
 first_name: Alireza
 last_name: Abedini
 superuser: false
-role: Research Assistant (since Jan 2026)
+role: Former Research Assistant
 organizations:
   - name: York University — Lassonde School of Engineering
     url: 'https://lassonde.yorku.ca/'
-bio: Research Assistant at the PACS Lab.
+bio: Former Research Assistant at the PACS Lab.
 interests:
   - Computing Systems
 social:
@@ -16,8 +16,7 @@ social:
     link: https://www.linkedin.com/in/alirezaabedinii/
 email: ''
 highlight_name: false
-user_groups:
-  - Researchers
+user_groups: []
 ---
 
-Alireza Abedini is a Research Assistant at the PACS Lab. He completed his MSc (Sep 2023 – Feb 2026) at the lab.
+Alireza Abedini was a Research Assistant at the PACS Lab. He completed his MSc (Sep 2023 – Feb 2026) at the lab.

@@ -3,11 +3,11 @@ title: Arian Boukani
 first_name: Arian
 last_name: Boukani
 superuser: false
-role: Research Assistant (since Feb 2026)
+role: Former Research Assistant
 organizations:
   - name: York University — Lassonde School of Engineering
     url: 'https://lassonde.yorku.ca/'
-bio: Research Assistant at the PACS Lab.
+bio: Former Research Assistant at the PACS Lab.
 interests:
   - Machine Learning Systems
   - Deep Learning
@@ -20,8 +20,7 @@ social:
     link: https://www.eecs.yorku.ca/~arbo/
 email: ''
 highlight_name: false
-user_groups:
-  - Researchers
+user_groups: []
 ---
 
-Arian Boukani is a Research Assistant at the PACS Lab. He completed his MSc (Sep 2023 – Jan 2026) at the lab with a nomination for the Best Thesis Award, and his research focuses on machine learning systems.
+Arian Boukani was a Research Assistant at the PACS Lab. He completed his MSc (Sep 2023 – Jan 2026) at the lab with a nomination for the Best Thesis Award, and his research focuses on machine learning systems.
