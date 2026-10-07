@@ -9,13 +9,13 @@ sections:
       title: Gallery
       subtitle: 'Moments from PACS Lab events, conferences, and gatherings — click any photo to view it full size'
       text: |
-        ### EECS26 — Sept 2026
+        ### EECS Faculty Retreat — Sept 2026
 
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px;">
         <img src="/media/gallery/eecs26/1.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="EECS26" data-zoomable data-zoom-src="/media/gallery/eecs26/1.jpg">
         </div>
 
-        ### ICPE25 — May 2025, York University
+        ### ICPE — May 2025, York University
 
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px;">
         <img src="/media/gallery/icpe25/0.png" style="width:100%;border-radius:8px;" loading="lazy" alt="ICPE25" data-zoomable data-zoom-src="/media/gallery/icpe25/0.png">
@@ -38,7 +38,7 @@ sections:
         <img src="/media/gallery/dec23/1.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="Lunch" data-zoomable data-zoom-src="/media/gallery/dec23/1.jpg">
         </div>
 
-        ### ACSOS23 — Sept 2023, York University
+        ### ACSOS — Sept 2023, York University
 
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px;">
         <img src="/media/gallery/acsos23/1.jpg" style="width:100%;border-radius:8px;" loading="lazy" alt="ACSOS23" data-zoomable data-zoom-src="/media/gallery/acsos23/1.jpg">
